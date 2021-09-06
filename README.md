@@ -3,7 +3,9 @@
 
 During my free time I love to :running_woman: hike, :airplane: travel, and :video_game: play games with my husband and toddler. I also enjoy working on several side projects including my indie game studio—[TrinityMoon Studios](https://www.trinitymoonstudios.com/). Try out the DEMO of my first game, [The Girl Who Knew Time](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview). It's a lot of fun!
 
-Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like FreeCodeCamp. Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
+👀 I'm currently taking deep dives on different system designs, algorithms, as well as other technologies I want to learn. Other than spending time with my family, most of my time is consumed by researching and learning about new and existing web, game, blockchain and machine learning tech. Both my husband and I are immensely interested about these subjects and enjoy discussing them.
+
+✍️Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like [FreeCodeCamp](https://www.freecodecamp.org/news/tag/blog/) and [JavaScript in Plain English](https://javascript.plainenglish.io/). Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
 
 ---
 
@@ -18,7 +20,7 @@ Teaching and making complicated subjects easier to understand brings me a lot of
 ---
 ### 📕 Latest Published Articles
 
-* [Master React With Ease: Understand Event Bubbling Like a Pro (Part 1)](https://mariyadiminsky.medium.com/master-react-with-ease-understand-event-bubbling-like-a-pro-part-1-8389644dca34)
+* [Master React With Ease: Understand Event Bubbling Like a Pro (Part 1)](https://javascript.plainenglish.io/master-react-with-ease-understand-event-bubbling-like-a-pro-part-1-8389644dca34)
 * [Learning to Code: How to Think Like a Programmer](https://zapier.com/blog/think-like-a-programmer/)
 * [Learn Node.js with Brigadier Fluffykins Series](https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108/)
 * [Learn ES6 The Dope Way Series](https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661/)
