@@ -20,7 +20,7 @@ During my free time I love to :running_woman: hike, :airplane: travel, and :vide
 ---
 ### 📕 Latest Published Articles
 
-* [Master React With Ease: Understand Event Bubbling Like a Pro (Part 1)](https://javascript.plainenglish.io/master-react-with-ease-understand-event-bubbling-like-a-pro-part-1-8389644dca34)
+* [Event Bubbling and Event Catching in JavaScript and React – A Beginner's Guide](https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/)
 * [Learning to Code: How to Think Like a Programmer](https://zapier.com/blog/think-like-a-programmer/)
 * [Learn Node.js with Brigadier Fluffykins Series](https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108/)
 * [Learn ES6 The Dope Way Series](https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661/)
