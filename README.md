@@ -7,8 +7,7 @@ During my free time I love to :running_woman: hike, :airplane: travel, and :vide
 
 ✍️Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like [FreeCodeCamp](https://www.freecodecamp.org/news/tag/blog/) and [JavaScript in Plain English](https://javascript.plainenglish.io/). Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
 
-👁 Myers Briggs(at work results): [INFJ](https://www.16personalities.com/infjs-at-work).
-
+👁 Myers Briggs(at work results): [INFJ](https://www.16personalities.com/infjs-at-work).    
 👁 Ray Dalio's PrinciplesYou(workplace personality results): [The Strategist](https://principlesyou.com/share/tbBLa8WU-Usu4hk).
 
 ---
