@@ -1,5 +1,5 @@
 # :wave: Hi there!
-👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For over 5 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
+👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For over 6 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
 
 During my free time I love to :running_woman: hike, :airplane: travel, and :video_game: play games with my husband and toddler. I also enjoy working on several side projects including my indie game studio—[TrinityMoon Studios](https://www.trinitymoonstudios.com/). Try out the DEMO of my first game, [The Girl Who Knew Time](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview). It's a lot of fun!
 
