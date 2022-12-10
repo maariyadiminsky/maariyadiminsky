@@ -1,3 +1,5 @@
+| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariyadiminsky/) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://mariyadiminsky.medium.com/) | [![Twitter](https://img.shields.io/badge/mariyadiminsky-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mariyadiminsky)
+
 # :wave: Hi there!
 👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For over 6 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
 
@@ -29,8 +31,6 @@ I specializes in Javascript, React, Redux, Node(Express/Hapi), RESTful API’s, 
 * [Learn ES6 The Dope Way Series](https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661/)
 * [TrinityMoon Studios Dev Blog](https://blog.trinitymoonstudios.com/series/the-girl-who-knew-time)
 ### :link: Links
-
-| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariyadiminsky/) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://mariyadiminsky.medium.com/) | [![Twitter](https://img.shields.io/badge/mariyadiminsky-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mariyadiminsky)
 
 * [I have an older Github account here](https://github.com/mariyadiminsky)—feel free to ask me why I'm using a new one.
 * [TrinityMoon Studios Github account](https://github.com/devtrinitymoonstudios)—where I post updates for The Girl Who Knew Time.
