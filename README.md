@@ -1,7 +1,7 @@
 | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariyadiminsky/) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://mariyadiminsky.medium.com/) | [![Twitter](https://img.shields.io/badge/mariyadiminsky-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mariyadiminsky)
 
 # :wave: Hi there!
-👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For over 6 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
+👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For 7 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
 
 During my free time I love to :running_woman: hike, :airplane: travel, and :video_game: play games with my husband and toddler. I also enjoy working on several side projects including my indie game studio—[TrinityMoon Studios](https://www.trinitymoonstudios.com/). Try out the DEMO of my first game, [The Girl Who Knew Time](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview). It's a lot of fun!
 
