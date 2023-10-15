@@ -3,7 +3,7 @@
 # :wave: Hi there!
 👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For 7 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
 
-During my free time I love to :running_woman: hike, :airplane: travel, and :video_game: play games with my husband and toddler. I also enjoy working on several side projects including my indie game studio—[TrinityMoon Studios](https://www.trinitymoonstudios.com/). Try out the DEMO of my first game, [The Girl Who Knew Time](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview). It's a lot of fun!
+During my free time I love to :running_woman: hike, :airplane: travel, and :video_game: play games with my husband and son. I also enjoy working on several side projects including my indie game studio—[TrinityMoon Studios](https://www.trinitymoonstudios.com/). Try out the DEMO of my first game, [The Girl Who Knew Time](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview). It's a lot of fun!
 
 ✍️Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like [FreeCodeCamp](https://www.freecodecamp.org/news/tag/blog/) and [JavaScript in Plain English](https://javascript.plainenglish.io/). Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
 
