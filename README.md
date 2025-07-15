@@ -8,7 +8,7 @@ I've also led a game studio I founded ([trailer](https://youtu.be/d-xUqCe2hu8?si
 
 During my free time I love to 👨👩👦 spend time with my family, :feather: write poetry, and play :video_game: video games :).
 
-✍️ Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like [FreeCodeCamp](https://www.freecodecamp.org/news/tag/blog/) and [JavaScript in Plain English](https://javascript.plainenglish.io/). Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
+✍️ Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like JavaScript in Plain English. Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
 
 👁 Myers Briggs work results: [INFJ](https://www.16personalities.com/infjs-at-work).    
 👁 Ray Dalio's PrinciplesYou workplace personality results: [The Strategist](https://principlesyou.com/archetypes/strategist).
