@@ -1,26 +1,17 @@
 | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariyadiminsky/) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://mariyadiminsky.medium.com/) | [![Twitter](https://img.shields.io/badge/mariyadiminsky-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mariyadiminsky)
 
-# :wave: Hi there!
-👩🏻‍💻I'm Mariya Diminsky, a passionate self-taught Software Engineer. For 9 years I've worked as a Full Stack Engineer, a Frontend Developer(I :sparkling_heart: React), and a Unity/C# developer.
+👋👩🏻‍💻 Hi, I’m Mariya — a friendly, self-taught, product-driven Software Engineer with 9+ years of experience building performant, accessible, and responsive web applications across startups and global teams.
 
-During my free time I love to :running_woman: hike, :airplane: travel, and :video_game: play games with my husband and son. I also enjoy working on several side projects including my indie game studio—[TrinityMoon Studios](https://www.trinitymoonstudios.com/). Try out the DEMO of my first game, [The Girl Who Knew Time](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview). It's a lot of fun!
+I specialize in modern frontend development—React (incl. SSR), TypeScript, Next.js, GraphQL, prefer Context API over Redux—and bring deep experience in the full SDLC, from whiteboard to shipped product. I ❤️ creating elegant solutions for user issues and improving the overall user experience is important to me. I prefer composition over inheritance, separation of concerns and less code coupling, more code readability, a clean API design with flexible integration as well as modularizing my code into components, custom hooks, and utility methods to keep code clean, readable and reusable. I always make sure I have production-ready code by following the SLDC cycle ie. part of that being creating unit and integration tests, using TypeScript and of course, reviewing and having my code reviewed before merging, and of course QA testing everything.
 
-✍️Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like [FreeCodeCamp](https://www.freecodecamp.org/news/tag/blog/) and [JavaScript in Plain English](https://javascript.plainenglish.io/). Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
+I've also led a game studio I founded ([trailer](https://youtu.be/d-xUqCe2hu8?si=qJelLu0pe_RPASHs) | [dev blog](https://blog.trinitymoonstudios.com/the-girl-who-knew-time-episode-01-official-release-details) | [some code](https://github.com/maariyadiminsky/thegirlwhoknewtime-preview)) and authored an [interactive children’s book](https://www.amazon.com/dp/B0FCJ8YVBB?binding=hardcover&searchxofy=true&ref_=dbs_s_aps_series_rwt_thcv&qid=1752608428&sr=8-1)—bringing storytelling, design intuition, and systems thinking to every product decision. 
 
-👁 Myers Briggs(at work results): [INFJ](https://www.16personalities.com/infjs-at-work).    
-👁 Ray Dalio's PrinciplesYou(workplace personality results): [The Strategist](https://principlesyou.com/archetypes/strategist).
+During my free time I love to 👨👩👦 spend time with my family, :feather: write poetry, and play :video_game: video games :).
 
----
+✍️ Teaching and making complicated subjects easier to understand brings me a lot of joy. That's why whenever I can, I write for publications like [FreeCodeCamp](https://www.freecodecamp.org/news/tag/blog/) and [JavaScript in Plain English](https://javascript.plainenglish.io/). Check out some of my articles [here](https://github.com/maariyadiminsky/technical-writer).
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-:sparkles: **As a Software Engineer,**  creating elegant solutions for user issues and improving the overall user experience is important to me. I prefer composition over inheritance, separation of concerns and less code coupling, more code readability, a clean API design with flexible integration as well as modularizing my code into components, custom hooks, and utility methods to keep code clean, readable and reusable. I always make sure I have production-ready code by creating unit and integration tests, using default parameters, prop-types/typescript, and of course, both reviewing and having my code reviewed before merging.
-
-I specializes in Javascript, React, Redux, Node(Express/Hapi), RESTful API’s, Databases(MySQL/PostgreSQL, MongoDB), Authentication, Functional Programming, WebSockets, Webpack, TDD(React Testint Library, Enzyme, Mocha, Chai, Expect), Git, jQuery, HTML5/CSS3, Wordpress, and DevOps(Heroku, AWS).
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-
-:sparkles: **As the Founder of TrinityMoon Studios,** an indie entertainment game studio creating interactive stories with heart—I taught myself C# and Unity, developed tools and a text-based language on top of C# to make storytelling development easier, designed all the UX/UI experiences, wrote story scripts for the studio's games, and have managed and directed contractors from multiple skills and backgrounds.
+👁 Myers Briggs work results: [INFJ](https://www.16personalities.com/infjs-at-work).    
+👁 Ray Dalio's PrinciplesYou workplace personality results: [The Strategist](https://principlesyou.com/archetypes/strategist).
 
 ---
 ### 📕 Latest Published Articles
@@ -30,7 +21,3 @@ I specializes in Javascript, React, Redux, Node(Express/Hapi), RESTful API’s, 
 * [Learn Node.js with Brigadier Fluffykins Series](https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108/)
 * [Learn ES6 The Dope Way Series](https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661/)
 * [TrinityMoon Studios Dev Blog](https://blog.trinitymoonstudios.com/series/the-girl-who-knew-time)
-### :link: Links
-
-* [I have an older Github account here](https://github.com/mariyadiminsky)—feel free to ask me why I'm using a new one.
-* [TrinityMoon Studios Github account](https://github.com/devtrinitymoonstudios)—where I post updates for The Girl Who Knew Time.
